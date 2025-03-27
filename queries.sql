@@ -1,4 +1,4 @@
-[11:20 p. m., 12/3/2025] Santiago Garcia Patiño: -- 1. Crear la base de datos
+ -- 1. Crear la base de datos
 CREATE DATABASE escuela_secundaria;
 USE escuela_secundaria;
 
